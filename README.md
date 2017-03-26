@@ -18,6 +18,10 @@ In this session we will create a new Java EE 7 maven project with an JPA bean th
  * Do spelling and grammar mistakes annoy you?
      * Is my date religious? no = religious, yes = atheist
 
+# Screenshots
+
+![Screenshot](/src/site/resources/images/FirstDateQuestions.png?raw=true "Screenshot")
+
 # Original Blog Post of OkCupid:
 https://theblog.okcupid.com/the-best-questions-for-a-first-date-dba6adaa9df2#.uf70v1bqg
 
@@ -26,7 +30,7 @@ https://theblog.okcupid.com/the-best-questions-for-a-first-date-dba6adaa9df2#.uf
  * http://www.incentergy.de/blog/2016/09/19/java-ee-7-killer-architecture-in-229-lines-of-code-wildfly-olingo-openui5/
  * https://github.com/ManuelB/blueprint
  
- # Twitter reactions
+# Twitter reactions
  
   * https://twitter.com/lvhengel/status/845288573049978880
   * https://twitter.com/SieburgA/status/845284663715414016
