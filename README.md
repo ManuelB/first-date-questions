@@ -25,7 +25,7 @@ In this session we will create a new Java EE 7 maven project with an JPA bean th
 # Original Blog Post of OkCupid:
 https://theblog.okcupid.com/the-best-questions-for-a-first-date-dba6adaa9df2#.uf70v1bqg
 
-# Mainly based on OpenUI5 Blueprint from Intentergy:
+# Mainly based on OpenUI5 Blueprint from Incentergy:
 
  * http://www.incentergy.de/blog/2016/09/19/java-ee-7-killer-architecture-in-229-lines-of-code-wildfly-olingo-openui5/
  * https://github.com/ManuelB/blueprint
